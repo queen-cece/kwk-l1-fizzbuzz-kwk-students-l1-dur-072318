@@ -1,8 +1,6 @@
-if x=0
-  loop do
-    puts "Now watch me whip"
-    puts "Now watch me nae nae"
-    x=x+1
-    x=4
-  break
+def hungry_marnie
+  pesto_pasta=0
+  until pesto_pasta == 30
+  puts "I AM IN THE HUNT GOT PESTO PASTA"
+  pesto-pasta +=1
 end
