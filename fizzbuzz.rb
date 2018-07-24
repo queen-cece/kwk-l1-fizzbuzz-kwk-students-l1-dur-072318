@@ -1,3 +1,8 @@
-If the number can be divided by 3
-Say "fizz"
-I
+if x=0
+  loop do
+    puts "Now watch me whip"
+    puts "Now watch me nae nae"
+    x=x+1
+    x=4
+  break
+end
